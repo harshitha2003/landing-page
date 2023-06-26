@@ -1,0 +1,13 @@
+
+header{
+    display:flex;
+}
+header img{
+    display: block;
+}
+ul{
+    list-style: none;
+}
+header nav ul{
+    display:flex;
+}
