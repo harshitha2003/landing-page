@@ -1,3 +1,4 @@
+
 .top {
     background-color: #1F2937;
     color: white;
@@ -60,7 +61,9 @@ header {
   p{
     margin:0px;
   }
-  
+.mid{
+  padding-bottom:20px;
+}
 .mid .info{
     text-align: center;
     padding: 20px;
@@ -88,4 +91,20 @@ header {
   display: flex;
   justify-content: center;
   gap:30px;
+}
+.quote{
+  background-color: #E5E7EB;
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-left:100px;
+  padding-right:100px;
+}
+.quote .q{
+  font-size: 36px;
+  color: #1F2937;
+  font-style: italic;
+}
+.quote .person{
+  font-weight: bold;
+  text-align: right;
 }
