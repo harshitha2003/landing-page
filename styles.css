@@ -27,6 +27,7 @@ header {
     list-style: none;
     padding-bottom: 30px;
     margin: 0;
+    gap: 20px;
   }
   
   header nav ul li {
@@ -41,6 +42,7 @@ header {
   }
   .about-website{
     display:flex;
+    gap: 50px;
   }
   .about-website .main{
     font-size: 48px;
@@ -91,7 +93,7 @@ header {
 .items{
   display: flex;
   justify-content: center;
-  gap:50px;
+  gap: 50px;
 }
 .quote{
   background-color: #E5E7EB;
@@ -124,6 +126,7 @@ header {
   display: flex;
   justify-content: center;
   gap: 30px;
+  align-items: center;
   background-color: #3882F6;
   border-radius: 5px;
   padding-bottom: 20px;
