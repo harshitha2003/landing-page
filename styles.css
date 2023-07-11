@@ -108,3 +108,26 @@ header {
   font-weight: bold;
   text-align: right;
 }
+
+.sign-up{
+  padding-top: 20px;
+}
+
+.sign-up .container{
+  margin-left: 100px;
+  margin-right: 100px;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  background-color: #3882F6;
+  border-radius: 5px;
+}
+.sign-up .p1{
+  font-weight: bold;
+}
+.sign-up button{
+  display: inline-block;
+}
