@@ -93,7 +93,7 @@ header {
 .items{
   display: flex;
   justify-content: center;
-  gap: 50px;
+  gap: 75px;
 }
 .quote{
   background-color: #E5E7EB;
