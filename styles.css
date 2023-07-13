@@ -75,7 +75,6 @@ header {
   }
 
 .item img {
-    display: inline-block;
     width: 100px; 
     height: 200px; 
     border-style: solid; 
