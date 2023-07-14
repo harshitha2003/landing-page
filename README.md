@@ -1,2 +1,2 @@
 # local-ecommerce
-Landing page
+Landing page, compatiable with laptop only
